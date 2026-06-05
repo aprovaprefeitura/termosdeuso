@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Termos de Uso – Aprova Prefeitura</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --g:#00E57A;--bg:#080B0A;--bg2:#0D110F;--bg3:#111714;
+  --border:rgba(0,229,122,0.13);--border2:rgba(0,229,122,0.28);
+  --txt:#E8F5EE;--txt2:#8BA898;--txt3:#56735F;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--txt);font-family:'Plus Jakarta Sans',sans-serif;font-size:16px;line-height:1.75;overflow-x:hidden}
+.topbar{background:var(--g);color:#000;text-align:center;padding:11px 24px;font-weight:700;font-size:14px}
+.topbar a{color:#000;text-decoration:none;font-weight:800}
+.wrap{max-width:780px;margin:0 auto;padding:64px 24px 96px}
+.doc-tag{font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--g);margin-bottom:10px}
+h1{font-family:'Bebas Neue',sans-serif;font-size:clamp(38px,6vw,62px);line-height:1;letter-spacing:.02em;color:var(--txt);margin-bottom:12px}
+.meta{font-size:13px;color:var(--txt3);margin-bottom:56px;padding-bottom:32px;border-bottom:1px solid var(--border)}
+h2{font-family:'Bebas Neue',sans-serif;font-size:26px;letter-spacing:.04em;color:var(--g);margin:48px 0 14px}
+h3{font-size:15px;font-weight:700;color:var(--txt);margin:28px 0 8px}
+p{color:var(--txt2);margin-bottom:14px}
+ul,ol{color:var(--txt2);padding-left:20px;margin-bottom:14px;display:flex;flex-direction:column;gap:7px}
+li{font-size:15px;line-height:1.65}
+strong{color:var(--txt);font-weight:700}
+.box{background:var(--bg3);border:1px solid var(--border2);border-radius:12px;padding:22px 26px;margin:20px 0}
+.box p{margin:0;font-size:15px}
+.box-warn{background:rgba(255,78,78,.05);border-color:rgba(255,78,78,.25)}
+.box-warn p{color:#FF9999}
+a{color:var(--g);text-decoration:none}
+a:hover{text-decoration:underline}
+footer{border-top:1px solid var(--border);padding:32px 24px;text-align:center;font-size:13px;color:var(--txt3)}
+footer a{color:var(--txt3)}
+</style>
+</head>
+<body>
+
+<div class="topbar"><a href="index.html">← Voltar para o Aprova Prefeitura</a></div>
+
+<div class="wrap">
+  <p class="doc-tag">Documento legal</p>
+  <h1>Termos de Uso</h1>
+  <p class="meta">
+    Produto: <strong>Aprova Prefeitura</strong> &nbsp;·&nbsp;
+    Última atualização: <strong>junho de 2025</strong> &nbsp;·&nbsp;
+    Versão: <strong>1.0</strong>
+  </p>
+
+  <div class="box">
+    <p>Ao adquirir ou acessar o produto <strong>Aprova Prefeitura</strong>, você declara ter lido, compreendido e concordado integralmente com estes Termos de Uso. Caso não concorde, não realize a compra.</p>
+  </div>
+
+  <!-- 1 -->
+  <h2>1. Identificação</h2>
+  <p>O produto digital <strong>Aprova Prefeitura</strong> é comercializado por sua criadora, pessoa física, doravante denominada <strong>"Produtora"</strong>, por meio de plataformas de infoprodutos (Hotmart, Kiwify, Eduzz ou similar), conforme indicado no momento da compra.</p>
+  <p>Para contato: <strong>[seu e-mail de suporte]</strong></p>
+
+  <!-- 2 -->
+  <h2>2. Objeto</h2>
+  <p>O presente contrato regula as condições de acesso e uso do curso digital <strong>Aprova Prefeitura</strong>, composto por:</p>
+  <ul>
+    <li>10 (dez) videoaulas gravadas em formato digital;</li>
+    <li>Materiais complementares em PDF (checklist, template de plano de estudos, guia de análise de edital);</li>
+    <li>Pack de prompts de inteligência artificial;</li>
+    <li>Eventuais atualizações de conteúdo a critério da Produtora.</li>
+  </ul>
+  <p>Trata-se de um <strong>curso de método e estratégia de estudos</strong>. Não constitui preparação jurídica, consultoria educacional regulamentada, curso preparatório de disciplinas específicas, nem garante aprovação em concursos públicos.</p>
+
+  <!-- 3 -->
+  <h2>3. Acesso e licença de uso</h2>
+  <p>Após a confirmação do pagamento pela plataforma, o comprador recebe acesso pessoal, intransferível e não exclusivo ao conteúdo, pelo prazo indicado no ato da compra (<strong>acesso vitalício</strong>, condicionado à existência da plataforma distribuidora).</p>
+
+  <h3>É permitido:</h3>
+  <ul>
+    <li>Assistir às aulas para uso próprio, quantas vezes desejar;</li>
+    <li>Baixar e imprimir os materiais em PDF para uso pessoal;</li>
+    <li>Utilizar os prompts de IA para fins pessoais de estudo.</li>
+  </ul>
+
+  <h3>É expressamente proibido:</h3>
+  <ul>
+    <li>Compartilhar login, senha ou acesso com terceiros;</li>
+    <li>Reproduzir, copiar, redistribuir, revender ou sublicenciar qualquer parte do conteúdo;</li>
+    <li>Publicar aulas, trechos ou materiais em redes sociais, YouTube, grupos de WhatsApp/Telegram ou qualquer outra plataforma;</li>
+    <li>Utilizar o conteúdo para criar produtos concorrentes ou derivados;</li>
+    <li>Remover marcas d'água, créditos ou identificações da autoria.</li>
+  </ul>
+
+  <div class="box box-warn">
+    <p>O descumprimento das proibições acima poderá ensejar <strong>encerramento imediato do acesso</strong>, sem reembolso, além de responsabilização civil e criminal nos termos da Lei nº 9.610/1998 (Lei de Direitos Autorais) e do Código Penal.</p>
+  </div>
+
+  <!-- 4 -->
+  <h2>4. Propriedade intelectual</h2>
+  <p>Todo o conteúdo do produto — incluindo roteiros, gravações, textos, layouts, materiais em PDF, prompts e identidade visual — é de <strong>propriedade exclusiva da Produtora</strong>, protegido pela Lei nº 9.610/1998.</p>
+  <p>A compra confere apenas uma licença de uso pessoal, não transferindo ao comprador qualquer direito de propriedade intelectual sobre o conteúdo.</p>
+
+  <!-- 5 -->
+  <h2>5. Política de reembolso (garantia de 7 dias)</h2>
+  <p>Em conformidade com o <strong>art. 49 do Código de Defesa do Consumidor (Lei nº 8.078/1990)</strong>, o comprador tem o direito de solicitar o cancelamento e reembolso integral em até <strong>7 (sete) dias corridos</strong> a partir da data da compra, independentemente de justificativa.</p>
+
+  <h3>Como solicitar:</h3>
+  <ul>
+    <li>Enviar e-mail para <strong>[seu e-mail de suporte]</strong> com o assunto "Reembolso – Aprova Prefeitura";</li>
+    <li>Informar nome completo e e-mail utilizado na compra;</li>
+    <li>O reembolso será processado pela plataforma em até 30 dias, conforme seus termos.</li>
+  </ul>
+
+  <div class="box">
+    <p>Após o prazo de 7 dias, não serão aceitas solicitações de reembolso, salvo em casos de vício do produto devidamente comprovado (art. 26 e 27 do CDC).</p>
+  </div>
+
+  <!-- 6 -->
+  <h2>6. Limitação de responsabilidade</h2>
+  <p>A Produtora <strong>não garante</strong> aprovação em concursos públicos, resultado específico de estudos, nem adequação do conteúdo a editais particulares.</p>
+  <p>Os resultados dependem exclusivamente do esforço, dedicação e contexto individual de cada aluno. Eventuais depoimentos publicados representam experiências individuais e não constituem garantia de resultado.</p>
+  <p>A Produtora não se responsabiliza por:</p>
+  <ul>
+    <li>Indisponibilidade temporária da plataforma distribuidora;</li>
+    <li>Alterações nos editais ou nas condições de concursos públicos após a publicação do curso;</li>
+    <li>Uso inadequado do conteúdo pelo comprador;</li>
+    <li>Danos indiretos, lucros cessantes ou danos morais decorrentes do uso do produto.</li>
+  </ul>
+
+  <!-- 7 -->
+  <h2>7. Disponibilidade do conteúdo</h2>
+  <p>O acesso ao produto depende da plataforma distribuidora escolhida (Hotmart, Kiwify, Eduzz ou similar). A Produtora envidará esforços razoáveis para manter o conteúdo disponível, mas não se responsabiliza por interrupções decorrentes de manutenções, falhas técnicas ou encerramento da plataforma.</p>
+  <p>Em caso de descontinuação do produto, a Produtora comunicará os compradores com antecedência mínima de <strong>30 (trinta) dias</strong>.</p>
+
+  <!-- 8 -->
+  <h2>8. Privacidade e dados pessoais</h2>
+  <p>O tratamento de dados pessoais coletados no processo de compra (nome, e-mail, CPF) é realizado pela plataforma distribuidora, conforme sua própria Política de Privacidade.</p>
+  <p>A Produtora poderá utilizar o e-mail fornecido para comunicações relacionadas ao produto (atualizações, suporte), em conformidade com a <strong>Lei nº 13.709/2018 (LGPD)</strong>. O comprador pode solicitar o cancelamento dessas comunicações a qualquer momento.</p>
+  <p>Consulte também nossa <a href="politica-de-privacidade.html">Política de Privacidade</a>.</p>
+
+  <!-- 9 -->
+  <h2>9. Afiliados e divulgadores</h2>
+  <p>O produto <strong>Aprova Prefeitura</strong> pode ser divulgado por afiliados independentes cadastrados na plataforma distribuidora. Esses afiliados atuam de forma autônoma e não são representantes, prepostos ou funcionários da Produtora.</p>
+  <p>A Produtora <strong>não se responsabiliza</strong> por:</p>
+  <ul>
+    <li>Declarações, promessas ou garantias feitas por afiliados que excedam o conteúdo oficial do produto;</li>
+    <li>Conteúdos publicitários criados por afiliados sem observância das diretrizes fornecidas;</li>
+    <li>Expectativas geradas por comunicações não autorizadas de afiliados.</li>
+  </ul>
+  <p>Caso o comprador tenha sido induzido por informações inverídicas de um afiliado, poderá reportar o caso pelo e-mail de suporte para análise.</p>
+
+  <!-- 10 -->
+  <h2>10. Uso de inteligência artificial</h2>
+  <p>O produto inclui um pack de prompts desenvolvidos para uso em ferramentas de inteligência artificial de terceiros, como o ChatGPT (OpenAI) e similares. Essas ferramentas são de propriedade e responsabilidade de seus respectivos desenvolvedores.</p>
+  <p>A Produtora <strong>não se responsabiliza</strong> por:</p>
+  <ul>
+    <li>Resultados, respostas ou conteúdos gerados pelas ferramentas de IA a partir dos prompts fornecidos;</li>
+    <li>Alterações nas políticas, funcionalidades ou disponibilidade das ferramentas de IA de terceiros;</li>
+    <li>Uso dos prompts em ferramentas distintas das recomendadas no curso;</li>
+    <li>Danos decorrentes de informações incorretas geradas por sistemas de IA.</li>
+  </ul>
+  <p>Os prompts são fornecidos como material de apoio educacional. O comprador é responsável pelo uso que faz das ferramentas de IA e pela verificação das informações geradas.</p>
+
+  <!-- 11 -->
+  <h2>11. Alterações nos termos</h2>
+  <p>A Produtora reserva-se o direito de atualizar estes Termos a qualquer momento. Alterações relevantes serão comunicadas por e-mail ou publicadas na página de venda. O uso continuado do produto após a comunicação implica concordância com os novos termos.</p>
+
+  <!-- 12 -->
+  <h2>12. Disposições gerais</h2>
+  <p>Estes Termos são regidos pelas leis da República Federativa do Brasil. Fica eleito o foro da comarca do domicílio da Produtora para dirimir quaisquer controvérsias, com renúncia a qualquer outro, por mais privilegiado que seja.</p>
+  <p>A invalidade de qualquer cláusula não afeta a validade das demais.</p>
+  <p>Em caso de dúvidas: <strong>[seu e-mail de suporte]</strong></p>
+
+  <div class="box" style="margin-top:48px">
+    <p style="font-size:13px;color:var(--txt3)">
+      <strong style="color:var(--txt2)">Legislação aplicável:</strong> CDC (Lei 8.078/90) · Lei de Direitos Autorais (Lei 9.610/98) · LGPD (Lei 13.709/18) · Código Civil Brasileiro · Marco Civil da Internet (Lei 12.965/14)
+    </p>
+  </div>
+</div>
+
+<footer>
+  <p>© 2025 Aprova Prefeitura · <a href="index.html">Voltar à página principal</a> · <a href="#">Política de Privacidade</a></p>
+</footer>
+
+</body>
+</html>
